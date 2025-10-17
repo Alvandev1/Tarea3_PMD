@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Peso en la Luna</string>
+    <string name="ingrese_peso">Introduce tu peso en la Tierra (kg)</string>
+    <string name="calcular">Calcular</string>
+</resources>
