@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Nivel de Energía</string>
+    <string name="ingrese_horas">Horas de sueño (0-10)</string>
+    <string name="ingrese_cafes">Tazas de café (número)</string>
+    <string name="ingrese_actividad">Minutos de actividad física (0-120)</string>
+    <string name="calcular">Calcular</string>
+    <string name="resultado_inicial">Introduce datos y pulsa Calcular</string>
+    <string name="resultado_energia">Nivel de energía: %1$d/100 (%2$s)</string>
+    <string name="nivel_bajo">Bajo</string>
+    <string name="nivel_medio">Medio</string>
+    <string name="nivel_alto">Alto</string>
+    <string name="error_campos">Por favor, rellena todos los campos</string>
+    <string name="error_numeros">Introduce valores numéricos válidos</string>
+    <string name="error_valores">Los valores no pueden ser negativos</string>
+</resources>

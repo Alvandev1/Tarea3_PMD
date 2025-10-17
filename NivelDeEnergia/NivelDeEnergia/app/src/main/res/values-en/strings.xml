@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Energy Level</string>
+    <string name="ingrese_horas">Sleep hours (0-10)</string>
+    <string name="ingrese_cafes">Cups of coffee (number)</string>
+    <string name="ingrese_actividad">Physical activity minutes (0-120)</string>
+    <string name="calcular">Calculate</string>
+    <string name="resultado_inicial">Enter data and press Calculate</string>
+    <string name="resultado_energia">Energy level: %1$d/100 (%2$s)</string>
+    <string name="nivel_bajo">Low</string>
+    <string name="nivel_medio">Medium</string>
+    <string name="nivel_alto">High</string>
+    <string name="error_campos">Please fill in all fields</string>
+    <string name="error_numeros">Enter valid numeric values</string>
+    <string name="error_valores">Values cannot be negative</string>
+</resources>
